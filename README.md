@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Snorlax0815
 - 👀 I’m interested in App and Web development
-- 🌱 I’m currently learning at the TGM Vienna
+- 🌱 I’m currently studying at the TGM Vienna
 - 💞️ I’m looking to collaborate on nothing, currently
-- 📫 How to reach me idk :)
 
 <!---
 Snorlax0815/Snorlax0815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
